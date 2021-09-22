@@ -1,11 +1,11 @@
 {
 	"name": "tabbed-chatlog",
-	"title": "Tabbed Chatlog",
+  "title": "Tabbed Chatlog - For The Forge",
 	"description": "Splits the Chatlog into In Character (per scene), Rolls (per scene), and Out of Character (global).",
-	"version": "1.6.3",
+  "version": "1.6.4",
 	"minimumCoreVersion": "0.8.0",
 	"compatibleCoreVersion": "0.8.8",
-	"author": "Cody Swendrowski <cody@swendrowski.us>",
+  "author": "Cody Swendrowski <cody@swendrowski.us> & Bruno",
 	"esmodules": [
 		"./tabbed-chatlog.js"
 	],
@@ -45,7 +45,7 @@
 			"path": "languages/ko.json"
 		}
 	],
-	"url": "https://github.com/cswendrowski/FoundryVTT-tabbed-chatlog",
-	"manifest": "https://github.com/cswendrowski/FoundryVTT-tabbed-chatlog/releases/download/latest/module.json",
-	"download": "https://github.com/cswendrowski/FoundryVTT-tabbed-chatlog/releases/download/1.6.3/module.zip"
+  "url": "https://github.com/Spawbreaker/FoundryVTT-tabbed-chatlog",
+  "manifest": "https://github.com/Spawbreaker/FoundryVTT-tabbed-chatlog/releases/download/latest/module.json",
+  "download": "https://github.com/Spawbreaker/FoundryVTT-tabbed-chatlog/releases/download/1.6.4/module.zip"
 }

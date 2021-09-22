@@ -311,7 +311,7 @@ Hooks.on("preCreateChatMessage", (chatMessage, content) => {
                 name = speaker.alias;
             }
 
-            img = game.data.addresses.remote + "/" + img;
+            // img = game.data.addresses.remote + "/" + img;
 
             if (!chatMessage.data.whisper?.length) {
                 let message = chatMessage.data.content;
